@@ -4,7 +4,7 @@ This is my home page! My name is Sebastian Barton and I am a student at [Cal Sta
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/GithubAdmin5.
+My GitHub page is [http://github.com/GithubAdmin5] (http://github.com/GithubAdmin5)
 
 ### CPSC 120
 
